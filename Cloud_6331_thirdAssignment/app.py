@@ -24,7 +24,7 @@ app.secret_key = "AimanAj1987!@"
 try:
     # the connection is successful connected to DB in Azure which we can not see it because we use PaaS
     username = 'aiman@advance-server'
-    password = 'ssar1987!'
+    password = 'xxncvff!'
     database = 'cloud_db_6331'
     server = 'advance-server.mysql.database.azure.com'
     cnx = pymysql.connect(host=server, user=username, passwd=password, db=database, local_infile=True)
