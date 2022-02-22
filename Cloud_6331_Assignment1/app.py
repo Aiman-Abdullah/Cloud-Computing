@@ -18,7 +18,7 @@ app.config['UPLOAD_FOLDER'] =  UPLOAD_FOLDER
 UPLOAD_IMAGES = 'static/images'
 app.config['UPLOAD_IMAGES'] =  UPLOAD_IMAGES
 
-app.secret_key = "AimanAj1987!@"
+app.secret_key = "saiadsksdd!@"
 
 
 
