@@ -16,13 +16,13 @@ app = Flask(__name__)  # flask use this (__name__ ) argument to determine locati
 # Upload folder
 UPLOAD_FOLDER = 'static/'
 app.config['UPLOAD_FOLDER'] =  UPLOAD_FOLDER
-app.secret_key = "AimanAj1987!@"
+app.secret_key = "ooijyfryvv!@"
 
 
 try:
     # the connection is successful connected to DB in Azure which we can not see it because we use PaaS
     username = 'aiman@advance-server'
-    password = 'ssar1987!'
+    password = 'saidjmcmc!!@!@!'
     database = 'cloud_db_6331'
     server = 'advance-server.mysql.database.azure.com'
     cnx = pymysql.connect(host=server, user=username, passwd=password, db=database, local_infile=True)
